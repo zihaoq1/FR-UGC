@@ -4,7 +4,7 @@
  [Fan Zhang](https://fan-aaron-zhang.github.io/) <sup>1</sup>,
  Shan Liu <sup>2</sup>,
  Xiaozhong <sup>2</sup>,
- [David Bull](https://david-bull.github.io/) <sup>1</sup>, <br>
+ [David Bull](https://david-bull.github.io/) <sup>1</sup> <br>
  <sup>1</sup>University of Bristol
  <sup>2</sup>Tencent (US)
 
